@@ -15854,7 +15854,7 @@ function ta(e) {
 
 function jI(e) {
     let {
-        basename: t = "/",
+        basename: t = "/new_prem3/",
         children: n = null,
         location: r,
         navigationType: s = $r.Pop,
@@ -21790,9 +21790,9 @@ const x5 = {
         ...b5
     },
     W = EL(S5, LL),
-    C5 = "/assets/curtain-closed-Bpkadld4.jpg",
-    E5 = "/assets/curtain-open-C9MqdT6G.jpg",
-    _5 = "/assets/curtain-video-BAKLj3Y5.mp4",
+    C5 = "./assets/images/curtain-closed-Bpkadld4.jpg",
+    E5 = "./assets/images/curtain-open-C9MqdT6G.jpg",
+    _5 = "./assets/videos/curtain-video-BAKLj3Y5.mp4",
     T5 = {
         en: {
             "intro.tapToContinue": "Tap to continue",
@@ -22148,7 +22148,7 @@ const k5 = ({
             })]
         })
     },
-    P5 = "/assets/scratch-gold-DQrdz0lH.png",
+    P5 = "./assets/images/scratch-gold-DQrdz0lH.png",
     R5 = () => {
         const e = Array.from({
             length: 60
@@ -22494,7 +22494,7 @@ const k5 = ({
             })]
         })
     },
-    j5 = "/assets/venue-illustration-DebdGS8I.png",
+    j5 = "./assets/images/venue-illustration-DebdGS8I.png",
     O5 = () => {
         const {
             t: e
@@ -22789,7 +22789,7 @@ const k5 = ({
             })]
         })
     },
-    D5 = "/assets/menu-frame-BFE5kCs7.png",
+    D5 = "./assets/images/menu-frame-BFE5kCs7.png",
     M5 = () => f.jsx("section", {
         className: "flex flex-col items-center justify-center py-8 px-4",
         style: {
@@ -22990,7 +22990,7 @@ const k5 = ({
             })]
         })
     }),
-    L5 = "/assets/dresscode-illustration-BT5yPEQh.png",
+    L5 = "./assets/images/dresscode-illustration-BT5yPEQh.png",
     $5 = () => {
         const {
             t: e
@@ -23122,7 +23122,7 @@ const k5 = ({
             })]
         })
     },
-    F5 = "/assets/gift-icon-BssCdzah.png",
+    F5 = "./assets/images/gift-icon-BssCdzah.png",
     V5 = () => {
         const {
             t: e
@@ -31378,7 +31378,7 @@ function AV() {
         }
     })
 }
-const NV = "/assets/rsvp-confirmation-DYbKwzwP.webm",
+const NV = "./assets/videos/rsvp-confirmation-DYbKwzwP.webm",
     jV = {
         en: {
             thankYou: "Thank you",
@@ -32216,7 +32216,7 @@ function DV() {
         })
     })
 }
-const Ow = "/assets/intro-music-CzqJOUtA.mp3",
+const Ow = "./assets/audio/intro-music-CzqJOUtA.mp3",
     MV = ({
         startPlaying: e = !1
     }) => {
